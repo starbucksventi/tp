@@ -34,8 +34,6 @@ public class RemarkCommand extends Command {
             + "Example: " + COMMAND_WORD + " 1 "
             + PREFIX_REMARK + "Likes to swim.";
 
-    public static final String MESSAGE_NOT_IMPLEMENTED_YET = "Remark command not implemented yet";
-
     /**
      * @param index of the person in the filtered person list to edit the remark
      * @param remark of the person to be updated to
